@@ -1,6 +1,6 @@
 # Project monkey
 ## About
-ComSci 9-lithium Sir Kyle
+This repository is for our branching and merge conflict activity.
 ## Members
 |    Name | Role | GitHub Username |
 
