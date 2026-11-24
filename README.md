@@ -1,6 +1,7 @@
 # Project monkey
 ## About
 I am Samuel and my pair is Xian, we are both grade 9 lithium students
+ComSci 9Lithium Sir Kyle
 ## Members
 |    Name | Role | GitHub Username |
 
