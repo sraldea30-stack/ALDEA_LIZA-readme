@@ -1,6 +1,6 @@
 # Project monkey
 ## About
-This repository is for our branching and merge conflict activity.
+I am Samuel and my pair is Xian, we are both grade 9 lithium students
 ## Members
 |    Name | Role | GitHub Username |
 
