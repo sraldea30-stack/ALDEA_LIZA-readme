@@ -8,6 +8,10 @@ our name is Samuel and Xian and we are grade 9 Pisay students
 | Samuel R. Aldea | Members | [sraldea30-stack](https://github.com/sraldea30-stack) |
 
 | Xian Tristan L. Liza | Goals | [Xian7912](https://github.com/Xian7912) |
+## Tools
+• GitHub
+• Visual Studio Code
+• Messenger
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
