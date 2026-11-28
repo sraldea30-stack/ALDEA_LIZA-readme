@@ -8,6 +8,12 @@ our name is Samuel and Xian and we are grade 9 Pisay students
 | Samuel R. Aldea | Members | [sraldea30-stack](https://github.com/sraldea30-stack) |
 
 | Xian Tristan L. Liza | Goals | [Xian7912](https://github.com/Xian7912) |
+## Meeting Schedule
+| Day | Schedule |
+
+| Monday | 10:25 - 11:15 |
+
+| Tuesday | 10:25 - 11:15 |
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
