@@ -1,6 +1,6 @@
 # Project monkey
 ## About
-ComSci 9Lithium Sir Kyle
+My name is Samuel and Xian and i am a grade 9 Pisay student
 ## Members
 |    Name | Role | GitHub Username |
 
