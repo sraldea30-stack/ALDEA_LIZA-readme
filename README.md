@@ -1,4 +1,11 @@
-# Project monkey
+# Project Comsci
+## Table of Contents
+- [About](#about)
+- [Members](#members)
+- [Tools We Use](#tools-we-use)
+- [Meeting Schedule](#meeting-schedule)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
 ## About
 My course is Comsci, section is 9 Lithium, and my instructor is sir Kyle
 our name is Samuel and Xian and we are grade 9 Pisay students
@@ -8,7 +15,7 @@ our name is Samuel and Xian and we are grade 9 Pisay students
 | Samuel R. Aldea | Members | [sraldea30-stack](https://github.com/sraldea30-stack) |
 
 | Xian Tristan L. Liza | Goals | [Xian7912](https://github.com/Xian7912) |
-## Tools
+## Tools We Use
 • GitHub
 
 • Visual Studio Code
