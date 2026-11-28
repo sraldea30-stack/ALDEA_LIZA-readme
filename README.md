@@ -1,6 +1,6 @@
 # Project monkey
 ## About
-about
+My course is Comsci, section is 9 Lithium, and my instructor is sir Kyle
 ## Members
 |    Name | Role | GitHub Username |
 
