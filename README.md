@@ -1,6 +1,6 @@
 # Project monkey
 ## About
-about
+our name is Samuel and Xian and we are grade 9 Pysay students
 ## Members
 |    Name | Role | GitHub Username |
 
