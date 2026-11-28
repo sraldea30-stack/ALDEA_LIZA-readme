@@ -1,6 +1,7 @@
 # Project monkey
 ## About
 My course is Comsci, section is 9 Lithium, and my instructor is sir Kyle
+our name is Samuel and Xian and we are grade 9 Pisay students
 ## Members
 |    Name | Role | GitHub Username |
 
